@@ -5,4 +5,4 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 
 # title
 
-check sync 
+check sync (update 1st) 
