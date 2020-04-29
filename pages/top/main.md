@@ -5,4 +5,4 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 
 # lichenmoss.net
 
-作成中です。(更新１回目)
+作成中です。(更新２回目)
