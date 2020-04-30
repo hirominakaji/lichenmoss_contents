@@ -3,7 +3,7 @@ Keywords: zoom
 Copyright: (C) 2020 Hiromitsu Nakajima
 ---
 
-# zoom関連(2nd update) 
+# zoom関連(3rd update) 
 
 ## Twitter
 
