@@ -3,7 +3,7 @@ Keywords:コケ　写真
 Copyright: (C) 2020 Hiromitsu Nakajima
 ---
 
-# ホームページのコケ写真(6th update)
+# ホームページのコケ写真(7th update)
 
 ## Twitter
 
