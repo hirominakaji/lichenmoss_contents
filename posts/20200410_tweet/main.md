@@ -1,5 +1,5 @@
 ---
-Keywords:コケ　写真 
+Keywords: コケ, 写真
 Copyright: (C) 2020 Hiromitsu Nakajima
 ---
 

@@ -1,9 +1,9 @@
 ---
-Keywords:コケ　写真 
+Keywords: コケ, 写真
 Copyright: (C) 2020 Hiromitsu Nakajima
 ---
 
-# 作成中のホームページのコケ写真(京都)
+# 次のホームページのコケ写真(京都)
 
 ## Twitter 2020.04.18
 
