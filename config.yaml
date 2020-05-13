@@ -4,4 +4,11 @@ links:
 - text: '日誌（ブログ）'
   href: '/?post'
 - text: '旧ホームページ'
-  href: 'http://lichenmoss.ynu.ac.jp'
+  href: ''
+- text: '外部サイト'
+  href: './'
+  sublinks:
+  - text: '作者twitter'
+    href: 'https://twitter.com/LichenMoss'
+  - text: '株式会社環境レジリエンス'
+    href: 'http://kankyo-resilience.co.jp/'
