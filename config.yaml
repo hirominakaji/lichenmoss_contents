@@ -12,3 +12,10 @@ links:
     href: 'https://twitter.com/LichenMoss'
   - text: '株式会社環境レジリエンス'
     href: 'http://kankyo-resilience.co.jp/'
+Sociallinks:
+- icon: 'fa-twitter-square'
+  href: "https://twitter.com/LichenMoss"
+- icon: 'fa-github-squate'
+  href: 'https://github.com/hirominakaji'
+- icon: 'fa-graduation-cap'
+  href: 'https://www.researchgate.net/profile/Hiromitsu_Nakajima2/'
