@@ -6,4 +6,4 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 # lichenmoss.net
 
 
-キーワード表示を修正中。
+Bootstrapを利用してページを整形中。
