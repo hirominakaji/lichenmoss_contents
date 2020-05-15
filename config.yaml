@@ -1,6 +1,8 @@
+protocol: 'https:'
+host: 'lichenmoss.net'
+sitetitle: '白と緑のミクロの森'
+sitesubtitle: '地衣類・蘚苔類と共に生きる─コケ学のススメ'
 links:
-- text: 'top'
-  href: '/?page=top'
 - text: '日誌（ブログ）'
   href: '/?post'
 - text: '旧ホームページ'
