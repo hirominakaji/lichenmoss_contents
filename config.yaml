@@ -6,7 +6,7 @@ links:
 - text: '日誌（ブログ）'
   href: '/?post'
 - text: '旧ホームページ'
-  href: ''
+  href: '/old_hp/index.html'
 - text: '外部サイト'
   href: './'
   sublinks:
