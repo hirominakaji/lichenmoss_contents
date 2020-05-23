@@ -11,11 +11,13 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 
 ## 次のホームページのコケ写真
 
-![次のホームページのコケ写真](./home_img_new.jpg =full)
+<!-- ![次のホームページのコケ写真](./home_img_new.jpg) -->
+<img src="home_img_new.jpg" width=100%>
 
 ## <span id="old">現行のホームページのコケ写真</span>
 
-![](home_img_old.jpg =full)
+<!-- ![](home_img_old.jpg) -->
+<img src="home_img_old.jpg" width=100%>
 
 ## 参考資料
 
