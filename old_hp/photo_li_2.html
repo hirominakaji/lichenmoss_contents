@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial=1.0">
+  <title>LichenMoss</title>
+  <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div id="header">
+
+  <h1 id="siteTitle"><img src="img/logo.png" height="50" width="475"></h1>
+
+  <div id="footerNavLink"><a href="#footerNav">+</a></div>
+    <h1 id="siteSubtitle">地衣類・蘚苔類と共に生きる―コケ学のススメ</h1>
+    
+    <div id="headerNav">
+      <ul>
+      <li><a href="index.html">ホーム</a></li>
+      <li><a href="invitation.html">コケ学のススメ</a></li>
+      <li><a href="research.html">研究紹介</a></li>
+      <li><a href="papers.html">発表論文</a></li>
+      <li><a href="photo_li.html">地衣類の写真</a></li>
+      <li><a href="photo_mo.html">蘚苔類の写真</a></li>
+      </ul>
+    </div>
+
+</div><!-- /header -->
+
+<div id="container">
+
+<div id="main">
+
+<h1>地衣類の写真（４枚のスライドショー）</h1>
+
+<ul class="rslides">
+  <li>
+    <img src="img/20140919_Ca_1.JPG" alt="">
+    <p class="caption">トゲシバリ <i>Cladia aggregata</i> (Inagawa, 19 September 2014)</p>
+  </li>
+  <li>
+    <img src="img/20140919_Ca_2.JPG" alt="">
+    <p class="caption">トゲシバリ <i>Cladia aggregata</i> (Inagawa, 19 September 2014)</p>
+  </li>
+  <li>
+    <img src="img/20140919_Ca_3.JPG" alt="">
+    <p class="caption">トゲシバリ <i>Cladia aggregata</i> (Inagawa, 19 September 2014)</p>
+  </li>
+  <li>
+    <img src="img/20140919_Ca_4.JPG" alt="">
+    <p class="caption">トゲシバリ <i>Cladia aggregata</i> (Inagawa, 19 September 2014)</p>
+  </li>
+</ul>
+
+<p>スライドショーはカーソルが写真の上にあると止まります．</p>
+
+</div><!-- /main -->
+
+<div id="sub">
+
+<h2>地衣類の写真リスト</h2>
+  <p><a href="photo_li.html">キウメノキゴケ <i>Flavoparmelia caperata</i> (Noda, 23 May 2014)</a></p>
+  <p>トゲシバリ <i>Cladia aggregata</i> (Inagawa, 19 September 2014)</p>
+  <p><a href="photo_li_1.html">イワカラタチゴケ <i>Ramalina yasudae</i> (Iwakuni, 29 March 2015)</a></p>
+</div><!-- /sub -->
+
+</div><!-- /container -->
+
+<div id="footer">
+  <div id="footerNav">
+    <ul>
+    <li><a href="index.html">ホーム</a></li>
+    <li><a href="invitation.html">コケ学のススメ</a></li>
+    <li><a href="research.html">研究紹介</a></li>
+    <li><a href="papers.html">発表論文</a></li>
+    <li><a href="photo_li.html">地衣類の写真</a></li>
+    <li><a href="photo_mo.html">蘚苔類の写真</a></li>
+    </ul>
+  </div>
+  <div style="margin-top: 15px; margin-bottom: 15px;">
+    <p>Copyright &copy; 2015 Hiromitsu NAKAJIMA. All Rights Reserved.</p>
+  </div>
+</div><!-- /footer -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="responsiveslides.min.js"></script>
+
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides({
+    auto: true,             // Boolean: Animate automatically, true or false
+    speed:  500,            // Integer: Speed of the transition, in milliseconds
+    timeout: 4000,          // Integer: Time between slide transitions, in milliseconds
+    pager: false,           // Boolean: Show pager, true or false
+    nav: false,             // Boolean: Show navigation, true or false
+    random: false,          // Boolean: Randomize the order of the slides, true or false
+    pause: true,            // Boolean: Pause on hover, true or false
+    pauseControls: true,    // Boolean: Pause when hovering controls, true or false
+    prevText: "Previous",   // String: Text for the "previous" button
+    nextText: "Next",       // String: Text for the "next" button
+    maxwidth: "",           // Integer: Max-width of the slideshow, in pixels
+    navContainer: "",       // Selector: Where controls should be appended to, default is after the 'ul'
+    manualControls: "",     // Selector: Declare custom pager navigation
+    namespace: "rslides",   // String: Change the default namespace used
+    before: function(){},   // Function: Before callback
+    after: function(){}     // Function: After callback
+    });
+  });
+</script>
+
+</body>
+
