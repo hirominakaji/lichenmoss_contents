@@ -13,5 +13,5 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 <!-- ![2015年4月に鎌倉で見たコバノチョウチンゴケ](./150412_kamakura_moss_1.jpg) -->
 <img src="220503_kitakaru_moss_lichen.JPG" width=100%>
 
-Lichens and a moss on a stone monument at Kitakaruizawa, Gunma.
+Lichens and a moss on a stone monument at Kitakaruizawa.
 　
