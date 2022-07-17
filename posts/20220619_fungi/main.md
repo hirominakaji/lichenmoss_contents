@@ -13,4 +13,4 @@ Copyright: (C) 2020 Hiromitsu Nakajima
 <!-- ![2015年4月に鎌倉で見たコバノチョウチンゴケ](./150412_kamakura_moss_1.jpg) -->
 <img src="220518_calvatia.JPG" width=100%>
 
-Calvatia sp. on soil in woods, Saitama, Japan.
+Calvatia sp. on soil in woods, Saitama, Saitama, Japan.
