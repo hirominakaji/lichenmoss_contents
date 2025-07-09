@@ -1,5 +1,5 @@
 ---
-Keywords: 蘚類, スギゴケ, 日陰, 日向, 色素, moss, Pogonatum, shade, sun, pigment
+Keywords: 高校生, 研究プログラム, 参加募集, ウマスギゴケ, Polytrichum commune
 Copyright: (C) 2020 Hiromitsu Nakajima
 ---
 
@@ -20,8 +20,8 @@ a) 開催日時と実施場所（内容）
 
 b) 対象: 高校1、2年生　　c) 募集人数: 10名　　d) 受付: 先着順
 
-e) 応募方法: h.nakajima@mail.saitama-u.ac.jp宛のEメールに、タイトルを
-「コケ研究プログラム参加希望」、
+e) 応募方法: h.nakajima@mail.saitama-u.ac.jp
+宛のEメールに、タイトルを「コケ研究プログラム参加希望」、
 本文に1) 氏名、2) 高校名、3) 学年、4) 住所、5) 電話番号を記入して、お送りください。
 
 f) 締め切り: 7月22日（火）（これより前に募集人数に達したら、その時点で締め切り）
